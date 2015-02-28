@@ -1,4 +1,4 @@
-#The story behind the picture# 
+#The story behind the picture:# 
 
 http://www.nature.com.libproxy.usc.edu/nature/journal/v518/n7540/full/nature13968.html
 
