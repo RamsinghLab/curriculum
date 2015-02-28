@@ -1,5 +1,7 @@
 #The story behind the picture
 
+Most of the common-sense ideas about therapy-related leukemia turn out to be iffy:
+
 http://www.nature.com.libproxy.usc.edu/nature/journal/v518/n7540/full/nature13968.html
 
 
