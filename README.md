@@ -1,4 +1,10 @@
+#The story behind the picture# 
+
+http://www.nature.com.libproxy.usc.edu/nature/journal/v518/n7540/full/nature13968.html
+
+
 #Bioinformatics:#
+
 Pevzner's sequence analysis course: https://www.coursera.org/course/bioinformatics2
 
 QB3 python for bioinformatics course: http://intro-prog-bioinfo-2014.wikispaces.com/
