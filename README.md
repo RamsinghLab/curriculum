@@ -27,6 +27,9 @@ Srinivasan's startup engineering course: https://www.coursera.org/course/startup
 
 Illumina BaseSpace developer's guide: https://developer.basespace.illumina.com/docs/content/documentation/getting-started/overview
 
+Specifically, the Native App tutorial:
+https://developer.basespace.illumina.com/docs/content/documentation/native-apps/testing-and-debugging-native-app
+
 One of these days I'll might properly put up my notes from last summer's bioinformatics course... 
 
 
