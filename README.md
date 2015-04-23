@@ -11,17 +11,25 @@ Pevzner's sequence analysis course: https://www.coursera.org/course/bioinformati
 
 QB3 python for bioinformatics course: http://intro-prog-bioinfo-2014.wikispaces.com/
 
+Harvard open courses and case studies: http://genomicsclass.github.io/book/pages/classes.html
 
 
-#Statistics and machine learning:#
+#Statistics, design of experiments, and machine learning basics:#
+
+Note: Substitute "data science" or whatever phrase you favor, if it makes you feel better
 
 Tibshirani, Hastie, James & Witten's stat learning course: https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about
 
 Susan Holmes' course on HMMs, R, etc.: http://web.stanford.edu/class/stats366/index.html
 
+A list of (citable) Nature Methods feature columns: http://blogs.nature.com/methagora/2013/08/giving_statistics_the_attention_it_deserves.html
+
+The latter is nice because you can look up specific topics by name and then cite them in rebuttals. 
 
 
 #Infrastructure:#
+
+The following is mostly "how to move fast and break stuff".  You may or may not want to do that.  Choose wisely.
 
 Srinivasan's startup engineering course: https://www.coursera.org/course/startup
 
@@ -30,7 +38,7 @@ Illumina BaseSpace developer's guide: https://developer.basespace.illumina.com/d
 Specifically, the Native App tutorial:
 https://developer.basespace.illumina.com/docs/content/documentation/native-apps/testing-and-debugging-native-app
 
-One of these days I'll might properly put up my notes from last summer's bioinformatics course... 
+One of these days I might properly put up my notes from last summer's bioinformatics course...  (--t)
 
 
 
@@ -41,3 +49,5 @@ http://nbviewer.ipython.org/url/www.anamnetic.com/INTD685/AntonsAssignment.ipynb
 http://nbviewer.ipython.org/url/www.anamnetic.com/INTD685/alignmentAssignment.ipynb (really needs to be updated)
 
 http://nbviewer.ipython.org/url/goo.gl/nqhwJb (HGVS nomenclature automatically via Python package)
+
+http://nbviewer.ipython.org/github/brentp/crystal/blob/master/notebooks/Introduction.ipynb (BrentP's crystal)
