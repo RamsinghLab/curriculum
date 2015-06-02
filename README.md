@@ -14,6 +14,17 @@ QB3 python for bioinformatics course: http://intro-prog-bioinfo-2014.wikispaces.
 Harvard open courses and case studies: http://genomicsclass.github.io/book/pages/classes.html
 
 
+#Writing software/libraries/packages:#
+
+Go read Jeff Leek's entire writeup.  It's better than anything I'm likely to write.  
+https://github.com/jtleek/rpackages (Yes, it uses R, and since I'm trained as a statistician, so do I.)
+
+The Python equivalent to a vignette is (roughly) the iPython notebook.  
+http://ipython.org/notebook.html (if you write a Python package, you should write an .ipynb using it.)
+
+We have been containerizing analyses into Docker images (not least because BaseSpace runs off of them).  
+Melissa Gymrek's write-up: http://melissagymrek.com/science/2014/08/29/docker-reproducible-research.html
+
 #Statistics, design of experiments, and machine learning basics:#
 
 Note: Substitute "data science" or whatever phrase you favor, if it makes you feel better
