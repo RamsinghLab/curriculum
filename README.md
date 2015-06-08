@@ -4,7 +4,7 @@
 
 Most of the common-sense ideas about therapy-related leukemia turn out to be iffy:
 
-http://www.nature.com.libproxy.usc.edu/nature/journal/v518/n7540/full/nature13968.html
+http://www.nature.com/nature/journal/v518/n7540/full/nature13968.html
 
 
 #Bioinformatics:#
@@ -18,14 +18,13 @@ Harvard open courses and case studies: http://genomicsclass.github.io/book/pages
 
 #Writing software/libraries/packages:#
 
-Go read Jeff Leek's entire writeup.  It's better than anything I'm likely to write.  
+Jeff Leek's writeup: better than anything I'm likely to write.  
 https://github.com/jtleek/rpackages (Yes, it uses R, and since I'm trained as a statistician, so do I.)
 
 The Python equivalent to a vignette is (roughly) the iPython notebook.  
 http://ipython.org/notebook.html (if you write a Python package, you should write an .ipynb using it.)
 
-We have been containerizing analyses into Docker images (not least because BaseSpace runs off of them).  
-Melissa Gymrek's write-up: http://melissagymrek.com/science/2014/08/29/docker-reproducible-research.html
+We've been containerizing analyses in Docker lately (so that BaseSpace can run them). Melissa Gymrek wrote a general overview of why this is useful: http://melissagymrek.com/science/2014/08/29/docker-reproducible-research.html
 
 #Statistics, design of experiments, and machine learning basics:#
 
