@@ -1,12 +1,13 @@
 [![DOI](https://zenodo.org/badge/12352/RamsinghLab/curriculum.svg)](http://dx.doi.org/10.5281/zenodo.18241)  
 
-![figure from paper](https://avatars3.githubusercontent.com/u/10928068?v=3&s=200)
-
 #The story behind the picture
 
 Most of the common-sense ideas about therapy-related leukemia turn out to be iffy:
 
 http://www.nature.com/nature/journal/v518/n7540/full/nature13968.html
+
+![figure from paper](https://avatars3.githubusercontent.com/u/10928068?v=3&s=200)
+
 
 #Bioinformatics:#
 
