@@ -28,7 +28,7 @@ http://ipython.org/notebook.html (if you write a Python package, you should writ
 
 We've been containerizing analyses in Docker lately (so that BaseSpace can run them). Melissa Gymrek wrote a general overview of why this is useful: http://melissagymrek.com/science/2014/08/29/docker-reproducible-research.html
 
-#Statistics, design of experiments, and machine learning basics:#
+#Statistics, design of experiments, and so forth:#
 
 Note: Substitute "data science" or whatever phrase you favor, if it makes you feel better
 
